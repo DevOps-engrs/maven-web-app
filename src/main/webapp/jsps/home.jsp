@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to VIGNAN Technologies Pvt Ltd., Bengalore Ph No: +91-9980923226,+91-9900012028,+91-9980923216  Bengaluru,Karnataka </h1>
-<h1 align="center"> VIGNAN Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bengalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to VIGNAN Technologies Pvt Ltd., Eluru Ph No: +91-9980923226,+91-9900012028,+91-9980923216  Bengaluru,Karnataka </h1>
+<h1 align="center"> VIGNAN Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Eluru India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		VIGNAN Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
+		Eluru,
 		+91-9980923226,+91-9900012028
 		devopstrainingblr@gmail.com
 		<br>
